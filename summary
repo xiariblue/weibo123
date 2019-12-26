@@ -1,0 +1,30 @@
+src/
+   |
+   |- main.py
+   |- manage.py
+   |- migrations/  #迁移目录
+   |
+   |-user/
+   |     |- __init__.py
+   |     |- views.py
+   |     |- models.py
+   |     |- static/
+   |     |- template/
+   |
+   |- weibo/
+   |       |- __init__.py
+   |       |- views.py
+   |       |- models.py
+   |       |- static.py
+   |       |- templates
+   |
+   |- config.py  #项目的一些配置(如果不需要，可以忽略)
+   |
+   |- static/
+   |        |- img/
+   |        |- css/
+   |        |- js/
+   |        |- fonts/
+   |
+   |-templates/
+   |          |-base.html
