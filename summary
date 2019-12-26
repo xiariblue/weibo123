@@ -28,3 +28,4 @@ src/
    |
    |-templates/
    |          |-base.html
+注：设计既要有前瞻性，又要避免过早优化
